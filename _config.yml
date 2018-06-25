@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: HsPS
+main_title: Notes, content, and Syllabus of Ruby on Rails workshop organized by Harisankar P S, Experienced Ruby on Rails Developer
 email: workshop@hsps.in
 description: >- # this means to ignore newlines until "baseurl:"
   Ruby on Rails technical workshop content, notes, and syllabus written and
