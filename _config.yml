@@ -30,6 +30,10 @@ theme: jekyll-theme-hydeout
 remote_theme: fongandrew/hydeout
 plugins:
   - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+
+sidebar_home_link: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
