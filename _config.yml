@@ -18,7 +18,7 @@ main_title: Notes, content, and Syllabus of Ruby on Rails workshop organized by 
 email: workshop@hsps.in
 description: >- # this means to ignore newlines until "baseurl:"
   Ruby on Rails technical workshop content, notes, and syllabus written and
-  maintained by Harisanka P S
+  maintained by Harisankar P S
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: coderhs
