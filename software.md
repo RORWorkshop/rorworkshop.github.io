@@ -24,9 +24,4 @@ permalink: /software-installation/
 
 
 
-## Docker Setup (Pending)
-
-
-
-
 *All the software recommended in this workshop are free and open source*
