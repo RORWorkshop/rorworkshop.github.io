@@ -37,7 +37,7 @@ If you see an error that says curl doesn't exist do:
 sudo apt-get install curl
 ```
 
-*Note:* Do not install RVM or ruby as a root user. We recommend that as we don't want
+*Note:* Do not install RVM or ruby as a root user. We recommend this as we don't want
 the applications we are building to have root permission. Giving root permission to an application could lead to serious securitiy issues in the future.
 
 #### Install latest Ruby
